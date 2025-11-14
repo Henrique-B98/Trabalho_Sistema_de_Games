@@ -115,17 +115,6 @@ public class GerenciarListaJogos {
             }
         }
     }
-
-    public static void Atualizar(){
-        int i = 1;
-        Jogos.sort(Comparator.comparing(Jogo::getId));
-        for(Jogo j : Jogos){
-            j.setId(i);
-            i++;
-        }
-        System.out.println("\nJogos Atualizados!");
-    }
-
     public static void Deletar(){
         System.out.println("\n--- Escolha o ID do jogo para deletar ---");
         for(Jogo j : Jogos){
