@@ -11,7 +11,7 @@
 // RAFAEL FRANCISCO DA SILVA LIMA - RA 924209078
 // VANESSA COSTA DE ALMEIDA - RA 925102149
 
-// REPOSITÓRIO DO TRABALHO NO GITHUB: https://github.com/Henrique-B98/Trabalho_Sistema_de_Games/blob/main/App.java
+// REPOSITÓRIO DO TRABALHO NO GITHUB: https://github.com/Henrique-B98/Trabalho_Sistema_de_Games
 
 import java.util.Scanner;
 public class Main {
