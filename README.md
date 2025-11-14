@@ -27,4 +27,4 @@
   - Por meio de atributos Private e uso de Getters e Setters
  
 - Uso de Try-Catch em validarSaldo()
-- Uso de Exceptions
+- Tratamento de exceções em validarSaldo()
